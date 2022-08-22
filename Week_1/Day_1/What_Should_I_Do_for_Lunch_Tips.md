@@ -4,7 +4,7 @@ Try experimenting with comparison operators (`<`, `>`, `===`, etc.) in the node 
 
 Work on your code iteratively - that means in small pieces.
 
-To help you figure out how to usen `hungry` and `available time` inside your function, try outputting their values to the Terminal as follows.
+To help you figure out how to use `hungry` and `available time` inside your function, try outputting their values to the Terminal as follows.
 
 ```javascript
 function whatToDoForLunch(hungry, availableTime) {
